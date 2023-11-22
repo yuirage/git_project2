@@ -1,5 +1,5 @@
 def my_function():
-    print("Нужно решать задачи!")
+    print("Ура! Проекты сданы!")
 
 
 def main():
